@@ -1,9 +1,19 @@
 {
   "name": "Greeting",
   "version": "1.0.0",
-  "description": "Testing greetings",
+  "description": "Testing MIT facts",
   "main": "greet.js",
   "scripts": {
     "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sTessC/Greetings.git"
+  },
+  "author": "tess.chandler123@gmail.com",
+  "license": "MIT",
+  "homepage": "https://github.com/sTessC/Greetings#readme",
+  "dependencies": {
+    "jest": "^26.1.0"
   }
 }
