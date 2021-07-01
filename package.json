@@ -1,0 +1,9 @@
+{
+  "name": "Greeting",
+  "version": "1.0.0",
+  "description": "Testing greetings",
+  "main": "greet.js",
+  "scripts": {
+    "test": "jest"
+  }
+}
